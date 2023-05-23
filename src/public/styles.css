@@ -1,0 +1,49 @@
+/* Estilos para el formulario */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e3fa15;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding: 10px;
+  background-color: #a88205;
+  border-bottom: 1px solid #ddd;
+}
+
+.formulario {
+    margin-bottom: 20px;
+    background-color: red;
+  }
+  
+  ul{
+    color: #5c0f0f;
+  }
+  form input {
+    margin-right: 10px;
+    background-color: red;
+  }
+  
+  /* Estilos para la lista de productos */
+  #productList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #productList li {
+    margin-bottom: 10px;
+    border: 1px solid #5c0f0f;
+    padding: 10px;
+  }
+  
